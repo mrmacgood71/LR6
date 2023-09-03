@@ -28,5 +28,37 @@
 ![asdf](screenshots/Screenshot_5.png)
 ![asdf](screenshots/Screenshot_6.png)
 
+### 8. Просмотреть последние изменения.
+![asdf](screenshots/Screenshot_7.png)
 
+### 9. Выполнить слияние в ветку master, разрешив конфликт (можно использовать специальные редакторы или графический интерфейс git).
 
+![asdf](screenshots/Screenshot_8.png)
+![asdf](screenshots/Screenshot_9.png)
+
+### 10. Удалить побочную ветку после успешного слияния.
+
+![asdf](screenshots/Screenshot_10.png)
+
+### 11. Сделать изменения и зафиксировать их, оставляя комментарии, несколько раз
+
+![asdf](screenshots/Screenshot_11.png)
+
+### 12. Сделать откат коммита
+
+![asdf](screenshots/Screenshot_16.png)
+![asdf](screenshots/Screenshot_17.png)
+
+### 13. Создать ветку для отчёта
+
+![asdf](screenshots/Screenshot_18.png)
+![asdf](screenshots/Screenshot_19.png)
+
+### 14. Начать оформлять отчёт в файле README.md 
+### При написании отчёта периодически делать коммиты, не забывать комментировать.
+
+![asdf](screenshots/Screenshot_15.png)
+
+### 15. Получить историю операций в форматированном виде (сокращённый хэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений
+
+![asdf](screenshots/Screenshot_20.png)
